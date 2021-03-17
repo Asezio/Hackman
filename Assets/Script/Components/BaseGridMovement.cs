@@ -33,7 +33,6 @@ public class BaseGridMovement : BaseGridObject
             
         {
             targetGridPosition += currentInputDirection;
-            previousInputDirection = currentInputDirection;
         }
 
         else if (GridPosition == targetGridPosition 
