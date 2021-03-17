@@ -2,17 +2,27 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : BaseGridMovement
+public class PlayerInputComponent : BaseGridMovement
 {
-    // Start is called before the first frame update
-    void Start()
+    protected override void Update()
     {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            currentInputDirection = new IntVector2(0, 1);
+        }
+        if (Input.GetKeyDown(KeyCode.DownArrow))
+        {
+            currentInputDirection = new IntVector2(0, -1);
+        }
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            currentInputDirection = new IntVector2(-1, 0);
+        }
+        if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            currentInputDirection = new IntVector2(1, 0);
+        }
+        base.Update();
     }
 }
