@@ -13,6 +13,6 @@ public class Wall : BaseGridObject
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
