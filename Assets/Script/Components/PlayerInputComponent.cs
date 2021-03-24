@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+<<<<<<< HEAD
 public class PlayerInputComponent : MovementComponent
+=======
+public class PlayerInputComponent : BaseGridMovement
+>>>>>>> b0b63039d3f3b217fc8f4e995dd563f619e4b067
 {
     protected override void Update()
     {

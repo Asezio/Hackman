@@ -4,7 +4,11 @@ using UnityEngine;
 
 //Rider
 //Resharper (Visual studio plugin, Jetbrains
+<<<<<<< HEAD
 public class EnemyInputComponent : MovementComponent
+=======
+public class EnemyInputComponent : BaseGridMovement
+>>>>>>> b0b63039d3f3b217fc8f4e995dd563f619e4b067
 {
     private IntVector2[] movementDirections = new IntVector2[]
     {
@@ -16,7 +20,11 @@ public class EnemyInputComponent : MovementComponent
     protected override void Update()
     {
         //If we've arrived, we need to set a new current input direction (the ghost can't stop)
+<<<<<<< HEAD
         if(transform.position == targetGridPosition.AsToIntVectr2())
+=======
+        if(transform.position == targetGridPosition.ToVector3())
+>>>>>>> b0b63039d3f3b217fc8f4e995dd563f619e4b067
         {
             var possibleDirections = new List<IntVector2>();
             
