@@ -19,17 +19,69 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b08cb0-8db0-4656-87c9-cd92dc85eb9a" name="Default Changelist" comment="" />
+    <list default="true" id="c1b08cb0-8db0-4656-87c9-cd92dc85eb9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Ghost.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Ghost.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Pill.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Pill.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Wall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Wall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/BaseComponents.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/EnemyInputComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/EnemyInputComponent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Ghosts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Ghosts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Pill.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Pill.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/PlayerInputComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/PlayerInputComponent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Wall.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Wall.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/LevelGeneratorSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/LevelGeneratorSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Systems.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Types.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Types/IntVector2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Types/IntVector2.cs.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs" root0="FORCE_HIGHLIGHTING" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,6 +89,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/Components/Wall.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/PlayerInputComponent.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616582018357</updated>
       <workItem from="1616582025631" duration="1926000" />
+      <workItem from="1616584819158" duration="689000" />
     </task>
     <servers />
   </component>
@@ -99,6 +153,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
