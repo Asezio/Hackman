@@ -19,77 +19,44 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b08cb0-8db0-4656-87c9-cd92dc85eb9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HackMan/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Black.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/Black.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Material/New Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugin.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Ghost.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Ghost.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Pill.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Pill.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Wall.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Wall.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/BaseComponents.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridObject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/BaseGridObject.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/EnemyInputComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/EnemyInputComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Ghosts.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Ghosts.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Pill.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Pill.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Player.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Player.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/PlayerInputComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/PlayerInputComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Wall.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Components/Wall.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/LevelGeneratorSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/LevelGeneratorSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Systems.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Types.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Types/IntVector2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/Types/IntVector2.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="c1b08cb0-8db0-4656-87c9-cd92dc85eb9a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/linQ/GenericsExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/linQ/LINQExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../BS/BS/Assets/Script/Tools/Singleton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/JSON/Serialization.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Components/DamageSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Components/Evently.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DelegatesExample/DelegatesExample.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Script/Components/Wall.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/SHVFS_P201_GD06_Q1/Quiz1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/MovementComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/linQ/LINQExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/linQ/GenericsExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/DelegatesExample/DelegatesExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/CollectionEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/CollectionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/Evently.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/Pill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Components/DamageSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Components/PlayerInputComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/JSON/Serialization.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/JSON/JSONGeneric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/LevelGeneratorSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shader/Surface.shader" />
       </list>
     </option>
   </component>
@@ -103,9 +70,17 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/JSON\HackMan.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\GD Student\Desktop\JSON" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -133,8 +108,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616582018357</updated>
-      <workItem from="1616582025631" duration="1926000" />
-      <workItem from="1616584819158" duration="689000" />
+      <workItem from="1616582025631" duration="10788000" />
+      <workItem from="1617188044759" duration="9271000" />
+      <workItem from="1617792226580" duration="13699000" />
+      <workItem from="1618996372093" duration="11158000" />
     </task>
     <servers />
   </component>
@@ -157,5 +134,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2381" y="225" key="SettingsEditor" timestamp="1617801634391">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2381" y="225" key="SettingsEditor/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1617801634391" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1617188987439">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1617188987439" />
   </component>
 </project>

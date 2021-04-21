@@ -5,6 +5,10 @@ using UnityEngine;
 public class LevelGeneratorSystem : MonoBehaviour
 {
     public BaseGridObject[] BaseGridObjectsPrefabs;
+
+    public List<string> levelFileNames = new List<string>();
+    [SerializeField] private string level;
+    
     public static int[,] Grid = new int[,]
     {
         { 1,1,1,1,1,1,1,1,1,1},
@@ -16,8 +20,11 @@ public class LevelGeneratorSystem : MonoBehaviour
         { 1,1,1,1,1,1,1,1,1,1}
     };
 
-    void Start()
+    void Awake()
     {
+        level = levelFileNames[Random.Range(0, levelFileNames.Count - 1)];
+        Grid = JSONGeneric.Load<Level>(level).Grid;
+
         for(int i = 0 ; i < Grid.GetLength(0); i++)
         {
             for(int j = 0; j < Grid.GetLength(1); j ++)
@@ -30,5 +37,12 @@ public class LevelGeneratorSystem : MonoBehaviour
                 //Instantiate(BaseGridObjectsPrefabs[Grid[i,j]], new Vector3(j , -i, 0), Quaternion.identity);
             }
         }
+        
     }
+}
+
+
+public class Level
+{
+    public int[,] Grid;
 }
